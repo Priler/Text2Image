@@ -1,6 +1,6 @@
 {
-    "name": "priler/text to image",
-    "description": "The most useful & easy for use PHP library for converting any text into image. Uses GD extension.",
+    "name": "priler/text2image",
+    "description": "The most useful & easy for use PHP library for converting any text to image. Uses GD extension.",
     "license": "MIT",
     "require": {
         "php": ">=5.3",
