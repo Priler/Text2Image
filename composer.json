@@ -1,0 +1,14 @@
+{
+    "name": "Priler/Text2Image",
+    "description": "The most useful & easy2use PHP library for converting any text into image. Uses GD extension.",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3",
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Priler\\": "src/"
+        }
+    }
+}
