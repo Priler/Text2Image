@@ -3,18 +3,18 @@ Text2Image
 
 The most useful & easy2use PHP library for converting any text into image  
 Version : 1.0 Beta  
-Requirements : PHP-GD  
+Requirements: PHP-GD  
 
-Text2Image was created basically for translating any text information into image representation.  
-And the point is, that there is no other libs for this task, at least there is no such easy4use libs for such tasks.  
-So all you need is require header file of this lib, create instance and call "output" or "save" function, that's it! :)
+Text2Image was created basically for translating any text information into an image representation.  
+And the point is, that there are no other libs for this task, at least there are no such easy4use libs for such tasks.  
+So all you need is require header file of this lib, create an instance and call "output" or "save" function, that's it! :)
 
 ###About modes
 There is exactly 2 modes in it, "Simple" and "Smart".  
-Main difference between them is that "Simple" is lot faster than "Smart".  
+The main difference between them is that "Simple" is a lot faster than "Smart".  
 But, "Simple" mode not support's text-size and angle params.  
-Also, to use custom font's in "Simple" mode you need to convert them into GDF.  
-With "Smart" mode you can use any font's you want, of course if they are supported by GD, for example TTF work nice.  
+Also, to use custom fonts in "Simple" mode you need to convert them into GDF.  
+With "Smart" mode you can use any font's you want, of course, if they are supported by GD, for example, TTF work nice.  
 See "List of all public methods" below for understanding how to switch between this modes.  
 
 ###List of all public params:
